@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[COURTNEY ATKINSON]]></title>
+        <description><![CDATA[COURTNEY ATKINSON]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 27 Feb 2016 00:34:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TRAINING VIDEO - TRIATHLON CYCLING]]></title>
+            <description><![CDATA[<article><h1>TRAINING VIDEO - TRIATHLON CYCLING</h1><p>Training up for your first triathlon? Or just looking for some pointers to help you get through the bike leg at your next race that little bit easier and faster? Here's a few of my best tips to help you feel comfortable and fast on your equipment and have the confidence to get off the bike running your best at the next race.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/afa3c86f15569aef0fccaa046b1faf3c557f25d7.jpg"></article>]]></description>
+            <link>http://courtneyatkinson.com.au/2014/07/05/training-tip-triathlon-cycling/</link>
+            <guid isPermaLink="false">c42c5642-df12-4157-8046-7a4aa2ee5128</guid>
+            <pubDate>Sat, 27 Feb 2016 00:34:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
