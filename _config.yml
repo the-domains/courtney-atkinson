@@ -1,0 +1,28 @@
+name: COURTNEY ATKINSON
+favicon: null
+layout_spectrum: 0.919109222246334
+typography_spectrum: 0.8968305301386863
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8493686139117926
+  lightness: 0.7009785431437194
+  saturation: 0.12578780064359307
+  rhythmicContrast: 0.5404798560775816
+purpose: []
